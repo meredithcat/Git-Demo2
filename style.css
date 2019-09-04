@@ -1,0 +1,18 @@
+body {
+    color: blue;
+}
+
+#main {
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid black;
+}
+
+.highlight {
+    background-color: yellow;
+}
+
+h1 {
+    text-align: center;
+}
